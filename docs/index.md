@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# biography
+平凡人很平凡，他们有自己的故事，也应该有自己的传记和历史。文化的范围很大，谁的记忆都是文化的一部分。
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+# 科技
+科技的动态不是别人分享出来的，是观察出来的
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# 世界、历史、人生
+世界是世界，无以为变。历史的车轮倾轧而过，人生或是车夫或是轮辙。

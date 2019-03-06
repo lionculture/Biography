@@ -4,6 +4,6 @@ site_author: lionculture
 repo_url: https://github.com/lionculture/Biography
 
 nav:
-    - Home: ../README.md
+    - Home: index.md
     - 人权演绎: 人权演绎.md
 theme: readthedocs
