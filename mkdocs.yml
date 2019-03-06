@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Biography
+site_author: lionculture
+
+repo_url: https://github.com/lionculture/Biography
+
+nav:
+    - Home: ../README.md
+    - 人权演绎: 人权演绎.md
+theme: readthedocs
